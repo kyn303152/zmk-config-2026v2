@@ -35,7 +35,7 @@ manifest:
       revision: main
     - name: zmk-dongle-screen
       remote: janpfischer
-      revision: main
+      revision: upgrade-4.1
     - name: prospector-zmk-module                 # <--- and these
       remote: carrefinho                          # <---
       revision: main                              # <---
