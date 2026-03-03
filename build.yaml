@@ -68,7 +68,7 @@ include:
 
     ### Xiao_Dongle START ###
   - board: seeeduino_xiao_ble
-    shield: corne_dongle_xiao
+    shield: corne_dongle_xiao dongle_screen
     #  -DCONFIG_ZMK_USB=y  -DCONFIG_ZMK_BLE=y
     cmake-args: -DCONFIG_ZMK_KEYBOARD_NAME=\"Xiao_Dongle\" -DCONFIG_ZMK_STUDIO=y
     artifact-name: xiao_corne_dongle
