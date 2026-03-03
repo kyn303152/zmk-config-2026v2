@@ -68,7 +68,7 @@ include:
 
     ### Xiao_Dongle START ###
   - board: seeeduino_xiao_ble
-    shield: corne_dongle_xiao dongle_screen
+    shield: corne_dongle_xiao prospector_adapter
     #  -DCONFIG_ZMK_USB=y  -DCONFIG_ZMK_BLE=y
     artifact-name: xiao_corne_dongle
 
