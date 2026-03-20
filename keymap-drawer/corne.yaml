@@ -25,7 +25,7 @@ layers:
   - L
   - {t: ;, h: NAVI}
   - ''''
-  - $$mdi:apple-keyboard-shift$$
+  - {t: (, h: '$$mdi:apple-keyboard-shift$$'}
   - Z
   - X
   - C
@@ -36,7 +36,7 @@ layers:
   - ','
   - .
   - /
-  - $$mdi:apple-keyboard-shift$$
+  - {t: ), h: '$$mdi:apple-keyboard-shift$$'}
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - ␣
